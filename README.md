@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
+# To run Mono-repo
+On the package.json are the codes to run the different applications
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
